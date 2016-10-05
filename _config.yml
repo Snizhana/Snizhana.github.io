@@ -11,7 +11,7 @@ title-normal:
 email: s.mamchak@gmail.com
 description: I'm front-end developer from Ukraine
 baseurl:  # the subpath of your site, e.g. /blog
-url: "https://Snizhana.githab.io" # the base hostname & protocol for your site
+url: "https://Snizhana.github.io" # the base hostname & protocol for your site
 author:
 street_address:
 city: Lviv
