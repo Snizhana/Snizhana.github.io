@@ -7,7 +7,7 @@
 
 # Site settings
 title-bold:
-title-normal:
+title-normal: 'home'
 email: s.mamchak@gmail.com
 description: I'm front-end developer from Ukraine
 baseurl:  # the subpath of your site, e.g. /blog
